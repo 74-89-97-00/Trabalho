@@ -1,0 +1,29 @@
+1 - Python é uma linguagem de programação de alto nível conhecida por sua sintaxe simples e legível, tornando-a acessível para iniciantes, porém a Java
+já é mais Executado no lado do cliente, JavaScript permite manipular elementos da página, responder a eventos do usuário e enviar solicitações para 
+servidores web e o Ruby Ruby é uma linguagem de programação de alto nível com uma sintaxe simples e expressiva, orientada a objetos e de tipagem 
+dinâmica, onde tudo é tratado como um objeto
+
+PYTHON
+
+print('Soma basica')
+num1 = float("3")
+num2 = float("6")
+soma = num1 + num2
+print("A soma é:", soma)
+print("Vasco campeão da copa do brasil")
+
+JAVA
+
+console.log("Soma básica")
+var numero1 = 80;
+var numero2 = 25;
+var soma = numero1 + numero2
+
+RUBY
+
+puts "Execução de soma básica"
+numero1 = 22
+numero2 = 13
+soma = numero1 + numero2
+puts "A soma é: #{soma}"
+puts "Vasco maior do mundo"
