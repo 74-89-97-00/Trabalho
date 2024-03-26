@@ -5,8 +5,8 @@ numero3 = 37
 numero4 = 38
 
 # Variáveis para armazenar a frase e a palavra
-frase = "Cano melhor que Pelé."
-palavra = "Fluminense"
+frase = "Pec melhor que Pelé."
+palavra = "Vasco"
 
 # Calculando a média aritmética
 media = (numero1 + numero2 + numero3 + numero4) / 4
